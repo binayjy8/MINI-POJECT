@@ -36,8 +36,8 @@ btn.addEventListener("click", function () {
 });
 
 
-ul.addEventListener("click", function () {
-    console.log("button clicked");
+ul.addEventListener("click", function (event) {
+    if(event.target.nodeName == "BUTTON");
 })
 // let delBtns = document.querySelectorAll(".delete");
 // for(delBtn of delBtns) {
