@@ -34,3 +34,10 @@ btn.addEventListener("click", function () {
     ul.appendChild(item);
     inp.value = "";
 });
+
+let delBtns = document.querySelectorAll(".delete");
+for(delBtn of delBtns) {
+    delBtn.addEventListener("click", function () {
+        console.log("task deleted");
+    });
+}
