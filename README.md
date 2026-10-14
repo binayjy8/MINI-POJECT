@@ -1,1 +1,1 @@
-# MINI-POJECT is created b
+# MINI-POJECT is created by
