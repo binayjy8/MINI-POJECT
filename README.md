@@ -1,1 +1,1 @@
-# MINI-POJECT is crea
+# MINI-POJECT is creat
