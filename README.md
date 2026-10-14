@@ -1,1 +1,1 @@
-# MINI-POJECT is
+# MINI-POJECT is c
